@@ -1,0 +1,8 @@
+Voter memiliki banyak Politisi untuk dipilih
+Politisi di pilih banyak voter 
+
+maka hubungannya tentu many to many 
+
+maka kita buat table konjungsi sebagai penghubung table dari id voter sebagai foreign key dan id politisi juga sebagai foreign key.
+
+sekian.
