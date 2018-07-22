@@ -1,0 +1,5 @@
+https://imgur.com/a/YyYe97R
+
+Membuat 3 tabel dennen nama tabel voters (firstName, lastName, gender, age), candidate (name, partai, location, grade_current) dan vote sistem.
+
+Tabel votesistem, ada id_voteSistem dan ada ForeignKey(FK) id_voters dan id_candidate, id_voters membuat panah dennen one to many (Karena voters data memilih bank candidate) dan id_candidate dari tabel voteSistem pakai tanda panah one to many (dikarenakan 1 voter data melakukan vote bank candidate)
